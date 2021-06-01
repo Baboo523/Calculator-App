@@ -1,0 +1,49 @@
+*
+{
+    color:white;
+}
+.Main
+{
+    border:2px solid #131313;
+    width:250px;
+    margin:0 auto;
+    background-color: #131313;
+}
+#result
+{
+    width:95%;
+    /* background-color: grey; */
+    color:white;
+    margin-left:1px;
+    margin-right: 5px;
+    background-color: #131313;
+}
+.clearbtn
+{
+    width:98%;
+    margin-top: 5px;
+    /* background-color: grey; */
+    margin-left:1px;
+    margin-right: 5px;
+}
+.btn
+{
+    /* background-color: grey; */
+    width: 57px;
+    margin: 1px;
+}
+.halfbtn
+{
+    /* background-color: grey; */
+    width: 120px;   
+    margin-left:1px;
+    margin-top: 5px;
+}
+button
+{
+    background-color: #131313;
+}
+button:hover
+{
+    background-color: #343434;
+}
