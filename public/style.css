@@ -5,39 +5,44 @@
 .Main
 {
     border:2px solid #131313;
-    width:250px;
+    width:550px;
+    height:370px;
     margin:0 auto;
     background-color: #131313;
 }
 #result
 {
-    width:95%;
+    width:98%;
     /* background-color: grey; */
     color:white;
     margin-left:1px;
     margin-right: 5px;
     background-color: #131313;
+    height:50px;
 }
 .clearbtn
 {
-    width:98%;
+    width:100%;
     margin-top: 5px;
     /* background-color: grey; */
     margin-left:1px;
     margin-right: 5px;
+    height:50px;
 }
 .btn
 {
     /* background-color: grey; */
-    width: 57px;
-    margin: 1px;
+    width: 134px;
+    /* margin: 5px; */
+    height:50px;
 }
 .halfbtn
 {
     /* background-color: grey; */
-    width: 120px;   
+    width: 545px;   
     margin-left:1px;
     margin-top: 5px;
+    height:50px;
 }
 button
 {
